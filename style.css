@@ -1,0 +1,41 @@
+.panda-bg-info{
+    background-color:#fceae8 ;
+}
+.categories img{
+    width: 100px;
+}
+.categories{
+    margin-bottom: 100px ;
+}
+.panda-rounded{
+    border-radius: 10px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border:none;
+    color:#ffffff;
+    padding:9px 25px;
+    border-radius: 8px;
+
+}
+.aibur{
+    margin-top:150px;
+    margin-bottom: 120px;
+    border-radius: 10px;
+    
+    
+}
+.show-container{
+    margin-top:50px;
+    margin-bottom: 100px;
+
+    
+}
+.subs-container{
+    margin-top:100px;
+    margin-bottom: 100px;   
+}
+.monu{
+    border-radius: 10px;
+}
+    
